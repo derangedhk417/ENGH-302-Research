@@ -4,3 +4,4 @@ This repository contains a Python script written to assist in research for my EN
 
 ## Sample Run
 
+![Sample Image Here](https://github.com/derangedhk417/ENGH-302-Research/raw/master/sample.PNG)
